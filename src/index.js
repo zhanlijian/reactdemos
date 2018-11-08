@@ -1,7 +1,6 @@
-import React , { Component } from 'react';
+import React from 'react';
 import ReactDOM from 'react-dom';
 import './assets/css/index.css';
-import App from './components/App';
 import * as serviceWorker from './utils/serviceWorker';
 
 import Hello from './router/index';
