@@ -1,4 +1,6 @@
 import React, { Component } from 'react';
+
+//路由的2种形式： hash(HashRouter) , H5的historyApi(BroswerRouter)是路由的容器，是组件，要包在路由的外面
 import {
     BrowserRouter as Router,
     Route,
